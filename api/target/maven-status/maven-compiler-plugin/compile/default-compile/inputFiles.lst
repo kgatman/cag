@@ -1,0 +1,6 @@
+/home/khatman/bahmni092/cagmodule/api/src/main/java/org/openmrs/module/cagmodule/Item.java
+/home/khatman/bahmni092/cagmodule/api/src/main/java/org/openmrs/module/cagmodule/api/dao/CommunityARTGroupDao.java
+/home/khatman/bahmni092/cagmodule/api/src/main/java/org/openmrs/module/cagmodule/CommunityARTGroupConfig.java
+/home/khatman/bahmni092/cagmodule/api/src/main/java/org/openmrs/module/cagmodule/CommunityARTGroupActivator.java
+/home/khatman/bahmni092/cagmodule/api/src/main/java/org/openmrs/module/cagmodule/api/CommunityARTGroupService.java
+/home/khatman/bahmni092/cagmodule/api/src/main/java/org/openmrs/module/cagmodule/api/impl/CommunityARTGroupServiceImpl.java
